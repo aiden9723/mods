@@ -2,11 +2,12 @@ package main
 
 import (
 	"flag"
+
 	"github.com/cheggaaa/pb/v3"
-	"github.com/yokimpillay/callcoster/csv"
-	"github.com/yokimpillay/callcoster/error"
-	"github.com/yokimpillay/callcoster/filter"
-	"github.com/yokimpillay/callcoster/report"
+	"github.com/scopserv-southafrica/callcoster/csv"
+	"github.com/scopserv-southafrica/callcoster/error"
+	"github.com/scopserv-southafrica/callcoster/filter"
+	"github.com/scopserv-southafrica/callcoster/report"
 )
 
 var bar *pb.ProgressBar

@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	e "github.com/yokimpillay/callcoster/error"
+	e "github.com/scopserv-southafrica/callcoster/error"
 )
 
 // Read finds the filename specified and reads the

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/yokimpillay/callcoster/error"
+	"github.com/scopserv-southafrica/callcoster/error"
 )
 
 func GetCost(duration, cost string) string {

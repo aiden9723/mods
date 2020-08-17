@@ -5,8 +5,8 @@ import (
 	"strings"
 
 	"github.com/cheggaaa/pb"
-	"github.com/yokimpillay/callcoster/call"
-	"github.com/yokimpillay/callcoster/report"
+	"github.com/scopserv-southafrica/callcoster/call"
+	"github.com/scopserv-southafrica/callcoster/report"
 )
 
 // ValidCalls iterates through the valid calls and attempts
